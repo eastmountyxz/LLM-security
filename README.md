@@ -30,6 +30,7 @@
 LLM术语：
 - ChatGPT
 - Prompt Learning
+- AIGC
 
 对抗样本：
 - 与LLM安全的关联及区别
@@ -72,6 +73,7 @@ AI for Security:
 - [CMU博士击破LLM护栏 - 新智元](https://zhuanlan.zhihu.com/p/601197560)
 - [使用LLM大语言模型十大安全风险要点 - AI智能矩阵](https://zhuanlan.zhihu.com/p/648484025)
 - [信息安全前沿技术有哪些？- GeorgeLee 清华](https://www.zhihu.com/question/25024086/answer/1733966674)
+- [有了大语言模型后，知识图谱该何去何从？](https://www.zhihu.com/question/588865784/answer/2957295570)
 
 ---
 
