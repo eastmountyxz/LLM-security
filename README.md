@@ -60,13 +60,18 @@ AI for Security:
 
 - [https://github.com/llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks)
 - [https://github.com/LLMSecurity/HouYi](https://github.com/LLMSecurity/HouYi)
-- [LLM Agent开发中使用知识图谱重建记忆（结合langchain源码解读）](https://zhuanlan.zhihu.com/p/653130483)
+
 
 
 ---
 
 ## Blog
 
+LLM安全相关：
+
+其它问题：
+- [LLM Agent开发中使用知识图谱重建记忆（结合langchain源码解读）](https://zhuanlan.zhihu.com/p/653130483)
+- [漫谈Prompt（提示工程）与CoT（思维链）](https://zhuanlan.zhihu.com/p/608789453)
 
 ---
 
