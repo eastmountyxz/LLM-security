@@ -48,6 +48,7 @@ AI安全：
 
 LLM:
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+- [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 
 AI for Security:
 - [Backdoor Learning: A Survey](https://arxiv.org/pdf/2007.08745.pdf)
@@ -60,6 +61,7 @@ AI for Security:
 
 - [https://github.com/llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks)
 - [https://github.com/LLMSecurity/HouYi](https://github.com/LLMSecurity/HouYi)
+- [https://github.com/RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)
 
 
 
