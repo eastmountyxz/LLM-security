@@ -25,6 +25,8 @@
 
 ## Code
 
+- [https://github.com/llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks)
+
 ---
 
 ## Blog
@@ -34,6 +36,7 @@
 
 ## Zhihu-Topic
 
+- [CMU博士击破LLM护栏 - 新智元](https://zhuanlan.zhihu.com/p/601197560)
 
 
 ----
