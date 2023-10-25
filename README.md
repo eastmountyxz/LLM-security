@@ -9,10 +9,15 @@
 - Zhihu-Topic
 
 
+作者博客：
+- [[LLM+AIGC] 01.应用篇之中文ChatGPT初探及利用ChatGPT润色论文对比浅析（文心一言 | 讯飞星火）](https://blog.csdn.net/Eastmount/article/details/132971425)
+
 ---
 
 ## Keywords
 
+安全相关术语
+- Prompt Injection
 
 ---
 
