@@ -60,6 +60,8 @@ AI for Security:
 
 - [https://github.com/llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks)
 - [https://github.com/LLMSecurity/HouYi](https://github.com/LLMSecurity/HouYi)
+- [LLM Agent开发中使用知识图谱重建记忆（结合langchain源码解读）](https://zhuanlan.zhihu.com/p/653130483)
+
 
 ---
 
