@@ -70,8 +70,12 @@ AI for Security:
 
 ## Zhihu-Topic
 
+LLM安全相关：
 - [CMU博士击破LLM护栏 - 新智元](https://zhuanlan.zhihu.com/p/601197560)
 - [使用LLM大语言模型十大安全风险要点 - AI智能矩阵](https://zhuanlan.zhihu.com/p/648484025)
+- [围绕大语言模型会产生哪些可能的安全问题，应该如何解决？ - 游凯超 清华(中间人攻击)](https://www.zhihu.com/question/588237969/answer/2998999964)
+
+其它问题：
 - [信息安全前沿技术有哪些？- GeorgeLee 清华](https://www.zhihu.com/question/25024086/answer/1733966674)
 - [有了大语言模型后，知识图谱该何去何从？](https://www.zhihu.com/question/588865784/answer/2957295570)
 
