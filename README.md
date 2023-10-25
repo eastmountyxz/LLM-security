@@ -17,8 +17,22 @@
 
 安全相关术语
 - Prompt Injection
+- Insecure Output Handling
+- Training Data Poisoning
+- Model Denial of Service
+- Supply Chain Vulnerabilities
+- Sensitive Information Disclosure
+- Insecure Plugin Design
+- Excessive Agency
+- Overreliance
+- Model Theft
 
 LLM术语
+- ChatGPT
+- Prompt Learning
+
+对抗样本
+- 与LLM安全的关联及区别
 
 ---
 
@@ -44,6 +58,7 @@ LLM术语
 ## Zhihu-Topic
 
 - [CMU博士击破LLM护栏 - 新智元](https://zhuanlan.zhihu.com/p/601197560)
+- [使用LLM大语言模型十大安全风险要点 - AI智能矩阵](https://zhuanlan.zhihu.com/p/648484025)
 
 ---
 
