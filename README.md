@@ -9,8 +9,6 @@
 - Zhihu-Topic
 
 
-作者博客：
-- [[LLM+AIGC] 01.应用篇之中文ChatGPT初探及利用ChatGPT润色论文对比浅析（文心一言 | 讯飞星火）](https://blog.csdn.net/Eastmount/article/details/132971425)
 
 ---
 
@@ -31,6 +29,7 @@
 ## Code
 
 - [https://github.com/llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks)
+- [https://github.com/LLMSecurity/HouYi](https://github.com/LLMSecurity/HouYi)
 
 ---
 
@@ -42,6 +41,12 @@
 ## Zhihu-Topic
 
 - [CMU博士击破LLM护栏 - 新智元](https://zhuanlan.zhihu.com/p/601197560)
+
+---
+
+## 作者博客
+- [[LLM+AIGC] 01.应用篇之中文ChatGPT初探及利用ChatGPT润色论文对比浅析（文心一言 | 讯飞星火）](https://blog.csdn.net/Eastmount/article/details/132971425)
+
 
 
 ----
