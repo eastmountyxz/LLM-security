@@ -49,6 +49,10 @@ AI安全：
 LLM:
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+- [Jailbreaker: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/abs/2307.08715)
+- [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/abs/2306.05499)
+- [Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study](https://arxiv.org/abs/2305.13860)
+
 
 AI for Security:
 - [Backdoor Learning: A Survey](https://arxiv.org/pdf/2007.08745.pdf)
